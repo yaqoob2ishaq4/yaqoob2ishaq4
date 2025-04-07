@@ -1,4 +1,4 @@
-# Hello, I'm [Yaqoob] here! 👋 
+# Hello, I'm Yaqoob here! 👋 
 <img align="left"  src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80">
 
 

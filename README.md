@@ -52,7 +52,7 @@ I'm a Software Engineer with **6+ years of professional experience** building sc
 ## 💼 Professional Experience
 
 ```text
-Senior Full Stack Engineer — DDEV                          2024 – 2025
+Senior Full Stack Engineer — DDEV                          2024 – ongoing
   → React/Next.js frontends, Node.js backends, PostgreSQL architecture,
     AWS infra, AI-powered features, recommendation systems, team leadership
 
@@ -104,7 +104,7 @@ Field operations platform for diamond drilling companies — manages drillers, r
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🗺️ Touri / Aggado
 Story-first trip planning platform generating structured itineraries based on location, time, and interests.
@@ -112,7 +112,7 @@ Story-first trip planning platform generating structured itineraries based on lo
 `React` `Node.js` `AI` `REST APIs`
 
 </td>
-<td width="50%">
+<td width="33%">
 
 
 ### ⛪ Church Service Hub
@@ -121,7 +121,7 @@ Platform supporting church service management and community engagement.
 [🔗 churchservicehub.com](https://churchservicehub.com)
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🏠 NC DevGroup
 Property and services management platform — rentals, purchases, maintenance requests, and service dispatch.

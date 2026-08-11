@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Yaqoob&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://www.linkedin.com/in/yaqoobdev/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=5%2B+Years+Building+Scalable+Web+%26+AI+Products;React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+PostgreSQL+%7C+AWS;Turning+Complex+Requirements+Into+Production+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=6%2B+Years+Building+Scalable+Web+%26+AI+Products;React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+PostgreSQL+%7C+AWS;Turning+Complex+Requirements+Into+Production+Software" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -84,7 +84,7 @@ Software Developer — Celestial Technologies / Datalytics    2021 – 2022
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 FaceBloom
 AI-powered facial analysis and recommendation platform with face comparison, similarity detection, and dataset-driven recommendations.
@@ -94,7 +94,7 @@ AI-powered facial analysis and recommendation platform with face comparison, sim
 [🔗 facebloom.co](https://facebloom.co)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💎 EdgeCore
 Field operations platform for diamond drilling companies — manages drillers, rigs, core recovery, and AI-assisted production recommendations.
@@ -104,7 +104,7 @@ Field operations platform for diamond drilling companies — manages drillers, r
 </td>
 </tr>
 <tr>
-<td width="33%">
+<td width="50%" valign="top">
 
 ### 🗺️ Touri / Aggado
 Story-first trip planning platform generating structured itineraries based on location, time, and interests.
@@ -112,8 +112,7 @@ Story-first trip planning platform generating structured itineraries based on lo
 `React` `Node.js` `AI` `REST APIs`
 
 </td>
-<td width="33%">
-
+<td width="50%" valign="top">
 
 ### ⛪ Church Service Hub
 Platform supporting church service management and community engagement.
@@ -121,12 +120,24 @@ Platform supporting church service management and community engagement.
 [🔗 churchservicehub.com](https://churchservicehub.com)
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏠 NC DevGroup
 Property and services management platform — rentals, purchases, maintenance requests, and service dispatch.
 
 [🔗 ncdevgroup.com](https://ncdevgroup.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ Accord
+AI voice agent platform for building and deploying conversational voice AI solutions for businesses — in the same space as Vapi.
+
+`AI` `Voice Agents` `LLM` `Real-time`
+
+[🔗 accordconsultingservices.com](https://accordconsultingservices.com)
 
 </td>
 </tr>
